@@ -1,0 +1,44 @@
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\Models.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\Models.pdb
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\obj\Debug\Models.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\obj\Debug\Models.pdb
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\Models.dll.config
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\EntityFramework.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\EntityFramework.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\PagedList.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\PagedList.Mvc.dll
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\PagedList.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\bin\Debug\PagedList.Mvc.xml
+E:\Tài liệu học tập\Công nghệ Web\ThiCuoiKi\OnlineShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\Models.dll.config
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\Models.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\Models.pdb
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\EntityFramework.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\PagedList.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\PagedList.Mvc.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\EntityFramework.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\PagedList.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\bin\Debug\PagedList.Mvc.xml
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\obj\Debug\Models.dll
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\obj\Debug\Models.pdb
+E:\Project test\BTL_CNW_Viet_k13_news\New\web_1_Thai\ThiCuoiKi\OnlineShop\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\Models.dll.config
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\Models.dll
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\Models.pdb
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\EntityFramework.dll
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\PagedList.dll
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\PagedList.Mvc.dll
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\EntityFramework.xml
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\PagedList.xml
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\bin\Debug\PagedList.Mvc.xml
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\obj\Debug\Models.dll
+C:\Users\Windows\Downloads\DoanQuanLyBanHang\OnlineShop\Models\obj\Debug\Models.pdb
